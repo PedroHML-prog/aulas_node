@@ -1,0 +1,1 @@
+vou pegar esse texto ultilizando javascrpt e node.
